@@ -1,3 +1,5 @@
+> This development stage is now part of [Cerebrum-Course-Platform](https://github.com/Luca-Brandao/Cerebrum-Course-Platform). Use the [SS1 source and setup guide](https://github.com/Luca-Brandao/Cerebrum-Course-Platform/tree/main/ss1) there. This repository is retained as a historical snapshot.
+
 # Cerebrum: Static Website
 
 A static four-page website advertising fictional online IT courses. This coursework stage focuses on HTML structure, CSS styling, navigation and responsive layouts.
